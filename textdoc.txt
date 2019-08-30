@@ -3,3 +3,10 @@ Add 2 line
 Add 3 line
 
 Add 5 line
+
+class Simple{
+public static void main(String args[]) throws Interrupted Exception{
+System.out.println("Hello World");
+Thread.sleep(1000);
+}
+}
